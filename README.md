@@ -3,3 +3,5 @@ One of the most common complaints for Data Science &amp; AI in general is that t
 
 
 Please note the intention of this repo is not to allow users to replicate this project. As the name suggests, this project requires specific components of hardware (Raspberry Pi, Sunfounder Sensors), and proprietary python scripts related to the sensor vendors. However the scripts written personally are made avaiable to give a sense of realism to the project. The AutoML portion could be run in isolation as it is using an open source dataset which I've made available here as well.
+
+Please read the attachd Applied Research Paper for a full understanding of the project.
